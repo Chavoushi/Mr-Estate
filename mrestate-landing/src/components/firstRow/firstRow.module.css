@@ -1,0 +1,14 @@
+.bamboBtn {
+    padding: 12px 40px;
+    position: relative;
+    background-color: #00C2FF;
+    color: #fff;
+    border-radius: 5px;
+    transition: all 0.3s;
+}
+.bamboBtn:hover{
+    box-shadow: 0px 0px 7px #00C2FF ;
+    transition-timing-function: ease;
+    transition-property:all;
+    transition-duration: 0.3s;
+}
